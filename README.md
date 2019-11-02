@@ -19,15 +19,15 @@ H5游戏做了许久，一直没怎么亲密接触过Native原生开发，之前
 
 1. 新建一个类 叫 JSTalkHelper.ts (名字自己随便起)
 
-![image-20191102123116151](/jsroads/blog/jstalktonative/README/image-20191102123116151.png)
+![image-20191102123116151](README/image-20191102123116151.png)
 
 1. 挂载我们新建的脚本
 
-![image-20191102125031866](/jsroads/blog/jstalktonative/README/image-20191102125031866.png)
+![image-20191102125031866](README/image-20191102125031866.png)
 
 1. 在场景里面 拖动几个按钮，好区分我们的几种方法
 
-![image-20191102125111475](/jsroads/blog/jstalktonative/README/image-20191102125111475.png)
+![image-20191102125111475](README/image-20191102125111475.png)
 
 - 无参无返  ---> 没有参数，不返回值
 - 无参有返  ---> 没有参数，有返回值
@@ -37,11 +37,11 @@ H5游戏做了许久，一直没怎么亲密接触过Native原生开发，之前
 
 1. 我们操作之后，开始 构建项目  如果是安卓项目，必须配置对象的 SDK 和 NDK 
 
-![image-20191102131119870](/jsroads/blog/jstalktonative/README/image-20191102131119870.png)
+![image-20191102131119870](README/image-20191102131119870.png)
 
 1. 使用 Xcode 打开我们的项目
 
-   ![image-20191102131400244](/jsroads/blog/jstalktonative/README/image-20191102131400244.png)
+   ![image-20191102131400244](README/image-20191102131400244.png)
 
 1. 在 AppController.mm 文件 添加我们的调用代码
 
