@@ -15,7 +15,7 @@ H5游戏做了许久，一直没怎么亲密接触过Native原生开发，之前
 
 1. 首先我们打开我们的Cocos Creator 新建一个Typescript项目
 
-![image-20191102122737393](/jsroads/blog/jstalktonative/README/image-20191102122737393.png)
+![image-20191102122737393](README/image-20191102122737393.png)
 
 1. 新建一个类 叫 JSTalkHelper.ts (名字自己随便起)
 
